@@ -23,15 +23,21 @@ https://github.com/IlyaMukhametyanov/cv_lab_2
 | Метод | Ср. IoU |
 | ------ | ------ |
 | [ORB 1](https://colab.research.google.com/drive/11f65zVX6kSmL52E_NNUfLTDBiqaQTZyK?usp=sharing) | 0.343 |
-| [ORB 2](https://colab.research.google.com/drive/13jqZQ7p70qIntkSUGUXsGauNWnQIPw3m?usp=sharing) | 0.343? |
+| [ORB 2](https://colab.research.google.com/drive/13jqZQ7p70qIntkSUGUXsGauNWnQIPw3m?usp=sharing) | 0.363 |
 | [SIFT](https://drive.google.com/file/d/1vAUR2EFW6dYKFVW_VDfsgkfQZXvmIMu1/view?usp=sharing) | 0.422 |
-| [Совпадение пикселей](https://colab.research.google.com/drive/1PWNlBoW1pJIoeSbfGaRHm4ZbgH_bUm63?usp=sharing) | 0.936 |
+| [Совпадение пикселей](https://colab.research.google.com/drive/1PWNlBoW1pJIoeSbfGaRHm4ZbgH_bUm63?usp=sharing) | 0.936 |  
 
 ## Картинки
 ### ORB 1
 
 ![image](https://github.com/4graf/search_pattern_in_image/assets/49661732/aa7cf78d-c103-40e2-821e-7fbfa12e85e2)
 ![image](https://github.com/4graf/search_pattern_in_image/assets/49661732/c6b45218-3ea3-46d7-8b93-8ea82d793e7f)
+
+### ORB 2
+
+![image](https://github.com/4graf/search_pattern_in_image/assets/49661732/ff112261-b88f-4a57-90c2-6cd6c2488765)
+![image](https://github.com/4graf/search_pattern_in_image/assets/49661732/8a005249-7cd1-4a56-9831-974e241cefd6)
+
 
 ### SIFT 
 
