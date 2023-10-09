@@ -39,4 +39,5 @@ https://github.com/IlyaMukhametyanov/cv_lab_2
 
 ### Совпадение пикселей
 
+![image](https://github.com/4graf/search_pattern_in_image/assets/49661732/62375b0e-d739-4fe3-bd47-4a1708b45250)
 ![image](https://github.com/4graf/search_pattern_in_image/assets/49661732/87fe73b7-23d2-4a58-8734-0800c21f9cf2)
